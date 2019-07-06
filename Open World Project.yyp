@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "2350e8fb-6ca2-4c9c-8d76-e759a9806897",
+            "Value": {
+                "id": "989a0051-2221-4c26-a81e-16d0e2fbd3e8",
+                "resourcePath": "objects\\obj_forest\\obj_forest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2835e5e8-0ee0-4df1-a307-ad911cc735b8",
             "Value": {
                 "id": "132af7ed-1126-445c-9dad-38577da50cfb",
@@ -146,7 +154,7 @@
             "Key": "97015e0c-ad66-4209-9d4e-4abd7a8f24c0",
             "Value": {
                 "id": "64faf9ca-5dc7-463c-843d-2fb663b7e0b1",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\desert\\desert.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "bda456e6-1268-43ca-8f52-2f5a27cd7b69",
+            "Value": {
+                "id": "5e99fa63-762a-4dda-b32f-58696c291808",
+                "resourcePath": "sprites\\forest\\forest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9fdd6b29-d09f-4ce6-8959-62dd0fde3602",
@@ -194,7 +210,7 @@
             "Key": "cf1ad07a-d63c-4c2f-bff1-b64a9d516303",
             "Value": {
                 "id": "35037edf-32a0-402d-93a1-4e1fec9c9d4f",
-                "resourcePath": "objects\\obj_purple\\obj_purple.yy",
+                "resourcePath": "objects\\obj_desert\\obj_desert.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "cf1ad07a-d63c-4c2f-bff1-b64a9d516303",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_purple",
+    "name": "obj_desert",
     "eventList": [
         
     ],
